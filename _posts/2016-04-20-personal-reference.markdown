@@ -2,10 +2,11 @@
 layout: post
 title:  "Talks / Articles - my personal reference"
 date:   2016-04-20 00:00:00 +0100
-categories: 
+categories:
 ---
 
 This page is just to keep track of nice talks or posts I like.
+<!--more-->
 
 ## Talks
 
