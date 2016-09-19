@@ -2,7 +2,7 @@
 layout: post
 title:  "- Software + Hardware"
 date:   2016-03-06 00:00:00 +0100
-categories: Hardware
+categories: hardware
 ---
 AS I said in my previous post, I bought some stuff to improve my laptop's performance, specially this [part](http://uk.crucial.com/gbr/en/ct250mx200ssd3), which I was amazed how a laptop could have an extra small SSD. I knew it would be tough to disassembly my laptop, but in my first attempt, after some effort, I managed to install the RAM memory. I have a [Asus G55VW](https://www.asus.com/ROG-Republic-Of-Gamers/ROG-G55VW/), it's a pretty old, but powerful, laptop.
 <!--more-->
