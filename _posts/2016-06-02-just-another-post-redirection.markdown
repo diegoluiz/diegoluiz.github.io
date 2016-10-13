@@ -2,7 +2,7 @@
 layout: post
 title:  "Just a blog post redirection"
 date:   2016-06-22 00:00:00 +0100
-categories:
+tags:
 ---
 If by any change you landed in this blog because of [this](https://diegoluiz.com/2016/06/15/298/) or [this](https://diegoluiz.com/2015/09/17/starting-using-git-references/) article.
 

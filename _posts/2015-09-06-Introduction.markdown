@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 date:   2015-06-09 00:00:00 +0100
-categories:
+tags:
 ---
 Hey people,
 
