@@ -30,5 +30,5 @@ My main interests are:
 * some martials ares like *Systema* and *Tae Kwon Do* 
 
 ## Projects
-* [blog]({{ site.url }}projects)
+* [blog]({{ site.url }}/projects)
 * [github](https://github.com/diegoluiz)
