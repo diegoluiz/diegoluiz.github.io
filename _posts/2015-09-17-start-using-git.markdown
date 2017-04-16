@@ -1,5 +1,6 @@
 ---
 layout: post
+project: true
 title:  "Starting using Git + References"
 date:   2015-06-17 00:00:00 +0100
 tags: [vcs, git]
