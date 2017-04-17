@@ -30,9 +30,9 @@ disqus_shortname:   diegorcl
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
+google:
+  plus: https://plus.google.com/u/0/+DiegoLuiz
+  analytics: UA-97548691-1
   #verify:
   #ad-client:
   #ad-slot:
