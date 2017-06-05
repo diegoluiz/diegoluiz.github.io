@@ -3,6 +3,7 @@ layout: post
 title:  "Full Stack? From nothing to production"
 date:   2016-04-30 00:00:00 +0000
 tags: [code, ops, vcs]
+comments: true
 ---
 Well, in this article, I'm expressing my own opinion about what is a full-stack developer, what it means for everybody (who has contacted me for this role). Almost in all the places I read "full-stack", they mean someone who is able to do some Back-end + Front-end development, which is not wrong. 
 But recently my responsibilities inside the company and the team expanded a lot, as well my vision of what is the whole process from the requirements to have one application in production.

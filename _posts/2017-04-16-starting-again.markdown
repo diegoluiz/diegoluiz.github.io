@@ -3,6 +3,7 @@ layout: post
 title:  "Reinstalling... again"
 date:   2017-04-16 00:00:00 +0100
 tags:
+comments: true
 ---
 
 And after so long, here I'm...

@@ -3,6 +3,7 @@ layout: post
 title:  "Changing history to save it"
 date:   2016-05-01 00:00:00 +0100
 tags: [git, vcs]
+comments: true
 ---
 [Rewriting history](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
 _Case:_ This is a real case, where it was needed to do some git tricks to avoid leaking some important information. One of these days, some friends built a lib to access an external dependencies and one of them just committed a our connection string, not only that, but also he committed it a LOT of times in different places (don’t ask me how he managed to do it, some people just have a gift to build a mess).

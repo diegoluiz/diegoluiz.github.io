@@ -4,6 +4,7 @@ project: true
 title:  "Starting using Git + References"
 date:   2015-06-17 00:00:00 +0100
 tags: [vcs, git]
+comments: true
 ---
 This is not going to be a static post (or at least I hope it doesn't). It will contain a quick story of how I started with git, a basic git explanation (as you can find in billions of sites out there it's pointless to repeat it here) and I will use this page as my personal reference for commands (nowadays I keep everything in some notes within [OneNote](https://www.onenote.com/)).Well, my story with git is the following: I was quite used to [VCS](https://en.wikipedia.org/wiki/Version_control) (Version Control System) since I started working, from that time to a while ago I've already worked with [Endevor](https://en.wikipedia.org/wiki/Endevor), [VSS](https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe), [SVN](https://en.wikipedia.org/wiki/Apache_Subversion) and [TFS](https://en.wikipedia.org/wiki/Team_Foundation_Server). SVN was far my favourite, because it was light, fast, reliable and usineg it through command line wasn't painful.
 <!--more-->

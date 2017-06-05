@@ -3,6 +3,7 @@ layout: post
 title:  "A Road to ML"
 date:   2017-04-17 22:00:00 +0100
 tags:
+comments: true
 ---
 
 So, as I said in the last post, I started reading and trying some Machine Learning (ML).
