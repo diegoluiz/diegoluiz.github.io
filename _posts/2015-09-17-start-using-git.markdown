@@ -105,3 +105,12 @@ git commit -m "one commit on yourBranch"
 [Reference](http://stackoverflow.com/questions/25356810/git-how-to-squash-all-commits-on-branch) For now, that's everything. I will improve this post constantly, so soon there will be more commands and more explanations.
 
 Thanks for coming :)
+
+## Reset your branch to the first commit
+
+This is **pointless* but sometimes you might want to do a prank (very evil one) with someone.
+This works only on Linux (because evaluation of a command inside another), and doesn't affect the remote repository. But if the person has any commit not pushed, they will be lost.
+The command is simple and anyone with basic knowledge should be able to recognise and avoid it, but it's good to show that one shouldn't copy and paste in the terminal without reading.
+{% highlight git %}
+git reset --hard `git rev-list --max-parents=0 HEAD`
+{% endhighlight %}
