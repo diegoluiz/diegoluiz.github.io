@@ -78,7 +78,7 @@ the part of generating logs is already inside the Developing step. However it's 
 ### Escalating
 this is a very interesting system, which I've never used unfortunately. Let's imagine that your website is offline, what does your monitoring system do? Send email to 100 people and make they crazy? Send email to 1 person and pray for the person to read it? There are some tools you can integrate with your monitoring system to try to reach out a person, if there is no reploy, it calls, sends text message, tries to reach out another person and so on... So you can trust that someone is going to answer the phone when something is wrong.
 
-## Scaling
+### Scaling
 most of the websites have a predictivish amount of users/sessions/requests, and the peaks are not so extreme. But when you have a completely unpredictive traffic, you need your system to know when it needs to scale up and down. So you don't lose money because you lost users, and you don't spend money with unused infrastructure.
 
 ### Infrastructure / Software Provisioning
